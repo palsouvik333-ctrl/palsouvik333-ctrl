@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Souvik Pal 👋
 
-<!--
-**palsouvik333-ctrl/palsouvik333-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | Power BI | SQL | Python | Excel
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a B.Tech graduate in Electrical Engineering with an interest in Data Analytics, Business Intelligence, and data visualization.
+
+I enjoy analyzing data, identifying trends, and transforming raw information into meaningful business insights.
+
+## 💻 Technical Skills
+
+- **BI & Visualization:** Microsoft Power BI, DAX, Power Query
+- **Database:** SQL, MySQL
+- **Programming:** Python
+- **Python Libraries:** Pandas, NumPy
+- **Spreadsheet:** Microsoft Excel
+- **Analytics:** Data Cleaning, Data Analysis, Data Visualization
+
+## 📊 My Data Analytics Projects
+
+### 1. Uber Data Analytics Dashboard
+- Interactive Uber trip data dashboard.
+- Data analysis and visualization using Power BI.
+
+[View Uber Project](https://github.com/palsouvik333-ctrl/Uber-Data-Analytics-Power-BI)
+
+### 2. Credit Card Analytics Dashboard
+- Credit card data analysis using Power BI.
+- Financial and customer-related data visualization.
+
+[View Credit Card Project](https://github.com/palsouvik333-ctrl/Credit-Card-Analytics-Power-BI)
+
+### 3. FIFA World Cup Data Analysis
+- FIFA World Cup data exploration.
+- Football data visualization using Power BI.
+
+[View FIFA World Cup Project](https://github.com/palsouvik333-ctrl/FIFA-World-Cup-Analysis-Power-BI)
+
+## 🎓 Education
+
+Bachelor of Technology (B.Tech)
+Electrical Engineering
+
+## 🎯 Career Interests
+
+- Junior Data Analyst
+- Data Analyst
+- Business Intelligence Analyst
+- MIS Executive
+
+## 🤝 Connect With Me
+
+- **GitHub:** https://github.com/palsouvik333-ctrl
+- **LinkedIn:** https://www.linkedin.com/in/souvik-pal-8a255b325
+
+---
+
+⭐ Thank you for visiting my profile!
